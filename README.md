@@ -20,4 +20,4 @@ This project investigates whether more Airbnbs in a neighbourhood leads to bette
 [View on Tableau Public](https://public.tableau.com/app/profile/diani.patel/viz/DoesmoreAirbnbsinanareameanhigherratings/DoesmoreAirbnbsinanareameanhigherratings)
 
 ## Preview
-![Dashboard Preview](assets/Does more Airbnb’s in an area mean higher ratings_.png)
+![Dashboard Preview](airbnb-dashboard.png)
